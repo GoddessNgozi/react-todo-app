@@ -33,9 +33,9 @@ Assuming you have git and node.js installed on your computer, please follow the 
 
 👤 **Goddess Ngozi**
 
-- GitHub: [@laiifuu](https://github.com/GoddessNgozi)
-- Twitter: [@hayet_fe](https://twitter.com/GoddessNgozi)
-- LinkedIn: [Hayet Fellah](https://www.linkedin.com/in/NgoziNwocha)
+- GitHub: [@GoddessNgozi](https://github.com/GoddessNgozi)
+- Twitter: [@GoddessNgozi](https://twitter.com/GoddessNgozi)
+- LinkedIn: [Ngozi Nwocha](https://www.linkedin.com/in/NgoziNwocha)
 ## 🤝 Contributing
 
 Contributions, issues, and feature requests are welcome!
